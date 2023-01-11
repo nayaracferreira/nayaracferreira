@@ -67,13 +67,12 @@
 <a href = "mailto:nayara.dcf@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<!--
 </div>        
         
 <h4 aria-hidden="true" align="center" style="border-bottom: #d9dbdb77 solid 1px;">⬇︎ My Commits ⬇︎</h4>       
 
-<!--
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/nayaracferreira/nayaracferreira/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"><img src="https://github.com/nayaracferreira/nayaracferreira/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="snake gif" style="max-width: 100%;"></a> 
+   
+</div>  
 -->
-      
-</div>
-    
