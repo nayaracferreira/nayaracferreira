@@ -4,7 +4,7 @@
 <!-- <p>Sou graduada em Ciências Econômicas pela Universidade Paulista - Unip, tenho experiência em levantamento de dados sobre Mercado de trabalho e relatórios de faturamentos.Atualmente estou em transição de carreira para a área de tecnologia tendo foco de atuação no desenvolvimento full stack. Para tornar essa decisão mais sólida fiz o curso de Full Stack Development na Tera, onde tive a oportunidade de aprender na prática os conceitos base com mais pronfundidade. </p> -->
   <p>I've a degree in Economic Sciences from Universidade Paulista - Unip, i've experience in data survey on the labor market and billing reports . I am currenltly in carrer transition to the technology area with focus on full stack development. To turn this decision solid i studied at Tera, where i had the oportunity to learn the basis concepts deeply.</p>
 
-
+<!-- 
 <h3 aria-hidden="true" align="center" style="border-bottom: #d9dbdb77 solid 1px;">⬇︎ Github Repositories Stats ⬇︎</h3>
 
 <div align="center">
@@ -14,7 +14,7 @@
     
 </div>   
   
-  <!-- 
+  
 <img height="180em" src="https://github-readme-stats-steel-iota.vercel.app/api/top-langs/?username=nayaracferreira&layout=compact&langs_count=7&theme=gruvbox_light"/>
 -->
 
